@@ -10,7 +10,7 @@ This repository contains detailed bug reports, test cases, and UI issues found d
 ## 📂 Project Structure
 ```
 📦 Proxify-Testing
-├── ✅ Test plan
+├── 📋 Test plan
 │   ├── Test Scenarios 
 │   ├── TestCases
 │   └── Proxify Mind Map
