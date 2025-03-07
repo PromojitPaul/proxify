@@ -10,10 +10,10 @@ This repository contains detailed bug reports, test cases, and UI issues found d
 ## 📂 Project Structure
 ```
 📦 Proxify-Testing
-├── ✅ Test Cases
-│   ├── TestCases_PlanPage.md
-│   ├── TestCases_Payment.md
-│   └── TestCases_Invoice.md
+├── ✅ Test plan
+│   ├── Test Scenarios 
+│   ├── TestCases
+│   └── Proxify Mind Map
 ├── 🐞 Bug Reports
 │   ├── UI_issues.md
 │   ├── Payment_Flow_Bugs.md
