@@ -4,6 +4,9 @@ This repository contains detailed bug reports, test cases, and UI issues found d
 
 📂 **Google Drive Link:** [Proxify Testing Screenshots & Files](https://drive.google.com/drive/folders/19yISzqDPmZeTtMWn0FoRwEZG8uOKY72_?usp=sharing)
 
+🎥 **YouTube Link:** [Proxify Testing Walkthrough Video Link ](https://youtu.be/rkhVPV4-g6o)
+
+
 ## 📂 Project Structure
 ```
 📦 Proxify-Testing
