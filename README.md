@@ -95,10 +95,6 @@ This repository contains detailed bug reports, test cases, and UI issues found d
 
 ---
 
-## 🔧 Tools Used
-- **Browser:** Chrome, Firefox
-- **Testing Tools:** Jira
-- **Automation:** Selenium (for UI automation testing)
 
 📧 **For any queries, contact:** support@proxify.gg
 
