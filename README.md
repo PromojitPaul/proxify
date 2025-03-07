@@ -2,6 +2,8 @@
 ## 📝 Overview
 This repository contains detailed bug reports, test cases, and UI issues found during the testing of the **Proxify** platform. The primary focus was on functionality, UI responsiveness, and payment flow.
 
+📂 **Google Drive Link:** [Proxify Testing Screenshots & Files](https://drive.google.com/drive/folders/19yISzqDPmZeTtMWn0FoRwEZG8uOKY72_?usp=sharing)
+
 ## 📂 Project Structure
 ```
 📦 Proxify-Testing
